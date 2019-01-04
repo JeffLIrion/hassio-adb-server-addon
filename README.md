@@ -1,3 +1,8 @@
+# Current Status
+
+Not working...  The addon doesn't install.  
+
+
 # Installation
 
 In the Hass.io > Add-on Store tab, add this repository's URL: [https://github.com/JeffLIrion/hassio-adb-server-addon](https://github.com/JeffLIrion/hassio-adb-server-addon)
@@ -46,4 +51,4 @@ media_player:
 
 # Contributing
 
-Please do!
+Please do!  Please feel free to fork this addon and make fixes and improvements.  
