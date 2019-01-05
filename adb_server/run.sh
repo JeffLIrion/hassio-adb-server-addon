@@ -6,10 +6,10 @@ CONFIG_PATH=/data/options.json
 DEVICES=$(jq --raw-output '.devices[]' $CONFIG_PATH)
 
 # start the ADB server
-adb start-server
+/opt/platform-tools/adb start-server
 
 # connect to each of the devices
 for device in $DEVICES; do
-    adb connect $device
+    /opt/platform-tools/adb connect $device
 done
 
