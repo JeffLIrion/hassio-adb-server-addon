@@ -1,6 +1,6 @@
 # Current Status
 
-Not working...  The addon doesn't install.  
+It might be working...  Please test it and report back!
 
 
 # Installation
