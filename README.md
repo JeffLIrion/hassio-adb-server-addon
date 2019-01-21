@@ -19,6 +19,7 @@ In the addon configuration, simply list the IP addresses of your devices.  For e
   "devices": [
     "192.168.0.111",
     "192.168.0.222"
+  ]
 }
 ```
 
